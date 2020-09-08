@@ -66,7 +66,6 @@ html,
 }
 
 #header .nav .depth1>li.on>a {
-    text-decoration: underline;
     opacity: 1;
     transition: all 0.5s;
 }
