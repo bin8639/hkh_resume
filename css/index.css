@@ -152,7 +152,8 @@ html,
     position: absolute;
     bottom: 20px;
     width: 100%;
-    text-align: center
+    text-align: center;
+    cursor: pointer;
 }
 
 .slide-outer .slick-dots li {
