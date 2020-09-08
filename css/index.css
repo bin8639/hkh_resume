@@ -230,6 +230,11 @@ html,
     font-weight: bold;
 }
 
+.slide-outer .slide .text p>span {
+    color: #FF3636;
+    text-shadow: 4px -2px 9px #ff6c6c;
+}
+
 .slide-outer .slide .text p {
     font-size: 20px;
     margin-top: 20px;
